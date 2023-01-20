@@ -1,0 +1,15 @@
+{
+  "machines": [
+  {
+    "id": 1,
+    "name": "Old",
+    "location": "MUIC"
+
+  },
+    {
+    "id": 2,
+    "name": "Old2",
+    "location": "MUIC3"
+  }
+]
+}
